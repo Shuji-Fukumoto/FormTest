@@ -60,6 +60,7 @@
 		A6E862C0272915F8008E558F = {
 			isa = PBXGroup;
 			children = (
+				A6D5BDA6272AA88000884912 /* README.md */,
 				A6E862CB272915F8008E558F /* FormTest */,
 				A6E862CA272915F8008E558F /* Products */,
 			);
@@ -81,7 +82,6 @@
 				A6D5BDA5272A929C00884912 /* View */,
 				A6E862D0272915FA008E558F /* Assets.xcassets */,
 				A6E862D2272915FA008E558F /* Preview Content */,
-				A6D5BDA6272AA88000884912 /* README.md */,
 			);
 			path = FormTest;
 			sourceTree = "<group>";
