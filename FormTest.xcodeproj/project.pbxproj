@@ -20,6 +20,7 @@
 		A6D5BD9E272A8E6C00884912 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		A6D5BDA0272A91AE00884912 /* UserStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStore.swift; sourceTree = "<group>"; };
 		A6D5BDA3272A921C00884912 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		A6D5BDA6272AA88000884912 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A6E862C9272915F8008E558F /* FormTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FormTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6E862CC272915F8008E558F /* FormTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormTestApp.swift; sourceTree = "<group>"; };
 		A6E862CE272915F8008E558F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 				A6D5BDA5272A929C00884912 /* View */,
 				A6E862D0272915FA008E558F /* Assets.xcassets */,
 				A6E862D2272915FA008E558F /* Preview Content */,
+				A6D5BDA6272AA88000884912 /* README.md */,
 			);
 			path = FormTest;
 			sourceTree = "<group>";
